@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KartikRN
+- 👋 Hi, I’m Kartik Nandagaon
 - 👀 I’m interested in Python development and Core Electronics 
 - 🌱 I’m currently learning Django
 - 📫 You can reach me through mail ---> nandagaonkartik@gmail.com  linkedin-->https://www.linkedin.com/in/kartik-nandagaon-7a4647213/  
